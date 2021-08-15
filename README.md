@@ -1,1 +1,1 @@
-# SQL_Fundamentals
+SQL Fundamentals. Analyzing CIA Factbook. A Dataquest project. Required file is included: factbook.db
